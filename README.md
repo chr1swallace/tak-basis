@@ -10,8 +10,12 @@
 Rscript cluster.R
 ```
 
+!()[cluster.pdf]
+
 # Distances
 
 ```{sh}
 Rscript distances.R
 ```
+
+!()[mahalanobis.pdf]
